@@ -5,3 +5,4 @@ __pycache__/
 mne_data/
 *.egg-info/
 .ipynb_checkpoints/
+.idea/
