@@ -52,7 +52,7 @@ analyze neural connectivity and classify brain signals.
   - Identified and corrected data leakage in augmentation pipeline (split before augmenting)
   - SVM outperforms Transformer on small dataset — consistent with published BCI literature
 
-### Phase 4 — Interactive Dashboard
+### Phase 4: Interactive Dashboard
 - **Streamlit dashboard** — 6-page interactive app visualizing all project results
   (run locally via `streamlit run app.py`)
   - Brain graph with adjustable connection threshold
