@@ -1,0 +1,10 @@
+allensdk
+networkx
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+mne
+torch
+streamlit
